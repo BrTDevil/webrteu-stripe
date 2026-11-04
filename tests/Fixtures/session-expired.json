@@ -1,0 +1,1 @@
+{"id":"cs_test_a1b2c3","object":"checkout.session","status":"expired","payment_status":"unpaid","amount_total":14170,"currency":"ron","client_reference_id":"123-1","metadata":{"order_id":"123-1"},"payment_intent":null}

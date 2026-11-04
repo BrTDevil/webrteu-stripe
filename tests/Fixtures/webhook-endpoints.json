@@ -1,0 +1,1 @@
+{"object":"list","has_more":false,"data":[{"id":"we_1Q1test","object":"webhook_endpoint","url":"https://shop.example/webhooks/payments/stripe","status":"enabled","enabled_events":["checkout.session.completed","charge.refunded"]},"x"]}

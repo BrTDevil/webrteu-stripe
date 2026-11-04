@@ -1,0 +1,1 @@
+{"id":"we_1Q1test","object":"webhook_endpoint","url":"https://shop.example/hook","status":"enabled","enabled_events":["checkout.session.completed"],"secret":"whsec_created_once"}

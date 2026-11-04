@@ -1,0 +1,1 @@
+{"id":"evt_1Q1refunded","object":"event","type":"charge.refunded","api_version":"2025-03-31.basil","created":1730700500,"data":{"object":{"id":"ch_3Q1test","object":"charge","amount":14170,"amount_refunded":14170,"refunded":true,"payment_intent":"pi_3Q1test","metadata":{}}}}
