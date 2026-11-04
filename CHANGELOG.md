@@ -1,6 +1,8 @@
 # Changelog
 
-## [Unreleased] (2.0.0)
+## v2.0.0 - 2026-11-04
+
+- Descriere și keywords unificate pentru Packagist; homepage corectat; necesită `webrteu/payments` ^1.0.
 
 Rescriere completă peste `webrteu/payments`. **Incompatibil cu 1.x.**
 

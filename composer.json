@@ -1,15 +1,17 @@
 {
     "name": "webrteu/stripe",
-    "description": "Stripe Checkout integration for Laravel, on top of webrteu/payments",
+    "description": "Stripe Checkout driver for webrteu/payments (Laravel)",
     "type": "library",
     "license": "MIT",
     "keywords": [
         "laravel",
         "romania",
+        "payments",
+        "payment-gateway",
         "stripe",
-        "payments"
+        "checkout"
     ],
-    "homepage": "https://github.com/WeBRTeu/stripe",
+    "homepage": "https://github.com/BrTDevil/webrteu-stripe",
     "authors": [
         {
             "name": "WeBRTeu",
@@ -22,7 +24,7 @@
         "illuminate/console": "^12.0|^13.0",
         "illuminate/http": "^12.0|^13.0",
         "illuminate/support": "^12.0|^13.0",
-        "webrteu/payments": "^0.1"
+        "webrteu/payments": "^1.0"
     },
     "require-dev": {
         "larastan/larastan": "^3.13",
